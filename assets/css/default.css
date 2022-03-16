@@ -210,3 +210,11 @@ footer .dark-button {
 }
 
 /* #endregion Effect */
+
+/* #custom cursor Effect */
+
+.custom-cursor {
+  cursor:url(../images/my-cursor.png), move;
+}
+
+/* #custom cursor Effect */
